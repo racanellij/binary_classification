@@ -6,7 +6,7 @@ With only 2 days of transaction data (around 300k observations), I was able to c
 
 Prerequisites
 
-It would be helpful for you to know a bit about machine learning concepts and best practices. Knowledge of the risks associated with overfitting models, monitoring model statistics, neural networks, and machine learning best practices will be helpful but are not necessary. 
+It would be helpful for you to know a bit about machine learning concepts and best practices. Knowledge of the risks associated with overfitting models, monitoring model statistics, and neural networks would be helpful but are not necessary.
 
 You don't need any software to view the analysis.
 
